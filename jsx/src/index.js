@@ -5,7 +5,7 @@ import ReactDOM from 'react-dom';
      return <div>Hi there!</div>;
  };
 
-RectDOM.render(
+ReactDOM.render(
     <App/>,
     document.querySelector('#root')
 );
